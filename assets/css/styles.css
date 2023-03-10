@@ -252,4 +252,9 @@
     .menu-spacing {
         display: none;
     }
+
+    .h1 {
+        width: 100%;
+        height: 100%;
+    }
 }
